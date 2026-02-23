@@ -35,10 +35,10 @@ The entire approach is **interpretable by design** — instead of treating the m
 
 | Class | Label | Description |
 |-------|-------|-------------|
-| 0 | 🟢 Non Demented | No signs of Alzheimer's |
-| 1 | 🟡 Very Mild Demented | Earliest detectable signs |
-| 2 | 🟠 Mild Demented | Moderate cognitive decline |
-| 3 | 🔴 Moderate Demented | Significant brain tissue loss |
+| 0 | green Non Demented | No signs of Alzheimer's |
+| 1 | yellow Very Mild Demented | Earliest detectable signs |
+| 2 | orange Mild Demented | Moderate cognitive decline |
+| 3 | red Moderate Demented | Significant brain tissue loss |
 
 ---
 
