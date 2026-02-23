@@ -1,0 +1,4 @@
+Model,CV Acc,Acc Std,CV F1,F1 Std,CV Prec,Test Acc,Test F1,Test Prec,Gap,Overfit
+Random Forest,0.594,0.006,0.587,0.006,0.584,0.583,0.575,0.572,0.011,✓
+SVM (Linear),0.389,0.004,0.34,0.005,0.36,0.381,0.333,0.35,0.007,✓
+MLP (Neural Net),0.622,0.008,0.619,0.007,0.617,0.615,0.61,0.606,0.008,✓
